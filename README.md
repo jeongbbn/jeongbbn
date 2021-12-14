@@ -7,9 +7,10 @@
         <li><b>Frontend Developer</b></li>
     </ul>
 </div>
-
+<br/>
+<br/>
 <div align="center">
-    <h3>Skills</h3>
+    <h2>Skills</h2>
      <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-ffe450.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
      <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
     <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -23,8 +24,8 @@
     <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
     <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
-
-
+<br/>
+<br/>
 <div align="center">
     <h2>Experience</h2>
     <ul align="left">
@@ -36,7 +37,8 @@
         <li>대학생 연합 개발동아리 Double Slash (2019. 06 ~ 2020. 01)</li>
     </ul> 
 </div>
-
+<br/>
+<br/>
 <div align="center">
     <h2>Prize</h2>
     <ul align="left">
@@ -47,7 +49,8 @@
         <li>2020년 가톨릭대학교 프로그래밍 경진대회 은상</li>
     </ul> 
 </div>
-
+<br/>
+<br/>
 <div align="center">
     <h3>Algorithm</h3>
 </div>
