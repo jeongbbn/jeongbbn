@@ -3,7 +3,7 @@
 <div align="center">
     <h2>About Me</h2>
     <ul align="left">
-        <li><b>Hwang Jeongbeen</b></li>
+        <li>Hi there👋 I'm <b>Hwang Jeongbeen</b></li>
         <li><b>Frontend Developer</b></li>
     </ul>
 </div>
@@ -35,6 +35,7 @@
         <li>연합 개발동아리 J2KB External Cooperation Crew </b> (2021.06.05 ~ now)</li>
         <li>알고리즘 스터디 ALiGo (2020.03 ~ 2021.06)</li>
         <li>대학생 연합 개발동아리 Double Slash (2019. 06 ~ 2020. 01)</li>
+        <li>The Catholic University of Korea. Computer&Information Science Engineering(2016. 03 ~ 2022. 02)</li>
     </ul> 
 </div>
 <br/>
@@ -52,8 +53,10 @@
 <br/>
 <br/>
 <div align="center">
-    <h3>Algorithm</h3>
+    <h2>Algorithm</h2>
+    <br/>
 </div>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongbeen)](https://solved.ac/jeongbeen)
 
 
