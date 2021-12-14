@@ -31,11 +31,11 @@
     <ul align="left">
         <li>Naver <b>boostcamp web·mobile 6th Membership</b> (2021.08.23 ~ 2021.12.03)</li>
         <li>Naver <b>boostcamp web·mobile 6th Challenge</b> (2021.07.19 ~ 2021.08.13)</li>
-        <li>Samsung SDS Algorithm Lecture - <b>Professional Certificate</b> (2021.07.05 ~ 2021.07.16)</li>
-        <li>연합 개발동아리 J2KB External Cooperation Crew </b> (2021.06.05 ~ now)</li>
+        <li>Samsung SDS Algorithm Lecture - <b>Professional Certificate (2021.07.05 ~ 2021.07.16)</li>
+        <li>연합 개발동아리 J2KB External Cooperation Crew (2021.06.05 ~ now)</li>
         <li>알고리즘 스터디 ALiGo (2020.03 ~ 2021.06)</li>
-        <li>대학생 연합 개발동아리 Double Slash (2019. 06 ~ 2020. 01)</li>
-        <li>The Catholic University of Korea. Computer&Information Science Engineering(2016. 03 ~ 2022. 02)</li>
+        <li>대학생 연합 개발동아리 Double Slash (2019.06 ~ 2020.01)</li>
+        <li>The Catholic University of Korea. Computer & Information Science Engineering (2016.03 ~ 2022.02)</li>
     </ul> 
 </div>
 <br/>
