@@ -3,9 +3,24 @@
 <div align="center">
     <h2>About Me</h2>
     <ul align="left">
-        <li>Hi there👋 I'm <b>Hwang Jeongbeen</b></li>
-        <li><b>Frontend Developer</b></li>
+        <li>Hi there👋 I'm <b>Hwang Jeongbeen</b>.</li>
+        <li>I'm a undergraduate who wants to be a <b>frontend engineer</b>.</li>
+        <li>I'm passionate about creating new things, making user experience better, sharing what I studied, and building tech community.</li>
+        <li>If there is no designer, I usually take charge of design.</li>
+        <li>Fun Fact : I'm interested in EDM. I've learned about DJing and composed songs before.<br/>(But... I don't want to let anyone hear my songs X_X)</li>
+        <li>I'm talented at drawing anything with Microsoft Paint. I usually draw cartoons about my daily life. If you want to have a look at it, please click <a href="https://abundant-allspice-29e.notion.site/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
     </ul>
+</div>
+<br/>
+<br/>
+<div align="center">
+    <h2>Contact</h2>
+    <a href="mailto:hwanngjjbb@gmail.com">
+     <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hwanngjjbb@gmail.com"/>
+    </a>
+    <a href="https://technicolour.tistory.com/">
+     <img alt="Tech Blog" src ="https://img.shields.io/badge/Tech Blog-2078C6.svg?&style=for-the-badge&logo=applemusic&logoColor=white&link=https://technicolour.tistory.com/"/>
+    </a>
 </div>
 <br/>
 <br/>
@@ -31,8 +46,9 @@
     <ul align="left">
         <li>Naver <b>boostcamp web·mobile 6th Membership</b> (2021.08.23 ~ 2021.12.03)</li>
         <li>Naver <b>boostcamp web·mobile 6th Challenge</b> (2021.07.19 ~ 2021.08.13)</li>
-        <li>Samsung SDS Algorithm Lecture - <b>Professional Certificate (2021.07.05 ~ 2021.07.16)</li>
+        <li>Samsung SDS Algorithm Lecture - <b>Professional Certificate</b> (2021.07.05 ~ 2021.07.16)</li>
         <li>연합 개발동아리 J2KB External Cooperation Crew (2021.06.05 ~ now)</li>
+        <li>행정안전부/한국정보화진흥원 공공데이터 청년인턴 (2020.09  ~ 2020.12.)</li>
         <li>알고리즘 스터디 ALiGo (2020.03 ~ 2021.06)</li>
         <li>대학생 연합 개발동아리 Double Slash (2019.06 ~ 2020.01)</li>
         <li>The Catholic University of Korea. Computer & Information Science Engineering (2016.03 ~ 2022.02)</li>
@@ -57,7 +73,13 @@
     <br/>
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongbeen)](https://solved.ac/jeongbeen)
+<div align="center">
 
-
-
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongbeen)](https://solved.ac/jeongbeen)
+    
+    [![Jeongbbn's github stats](https://github-readme-stats.vercel.app/api?username=jeongbbn)](https://github.com/anuraghazra/github-readme-stats)
+    
+    
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongbbn&count_bg=%238ec5f3&title_bg=%23feabc8&icon=audiomack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+</div>
