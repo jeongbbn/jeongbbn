@@ -7,7 +7,7 @@
         <li>I'm a undergraduate who wants to be a <b>frontend engineer</b>.</li>
         <li>I'm passionate about creating new things, making user experience better, sharing what I studied, and building tech community.</li>
         <li>If there is no designer, I usually take charge of design.</li>
-        <li>Fun Fact : I'm interested in EDM. I've learned about DJing and composed songs before.<br/>(But... I don't want to let anyone hear my songs X_X)</li>
+        <li>Fun Fact : I'm interested in EDM. I've learned about DJing and composed songs before.<br/>(But... I don't want to let anyone listen my songs X_X)</li>
         <li>I'm talented at drawing anything with Microsoft Paint. I usually draw cartoons about my daily life.
             <br/>
             If you want to have a look at it, please click <a href="https://abundant-allspice-29e.notion.site/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
