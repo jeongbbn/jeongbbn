@@ -9,19 +9,13 @@
         <li>If there is no designer, I usually take charge of design.</li>
         <li>Fun Fact : I'm interested in EDM. I've learned about DJing and composed songs before.<br/>(But... I don't want to let anyone hear my songs X_X)</li>
         <li>I'm talented at drawing anything with Microsoft Paint. I usually draw cartoons about my daily life. If you want to have a look at it, please click <a href="https://abundant-allspice-29e.notion.site/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
-    </ul>
-</div>
-<br/>
-<br/>
-<div align="center">
-    <h2>Contact</h2>
-    <a href="mailto:hwanngjjbb@gmail.com">
+        <li><a href="mailto:hwanngjjbb@gmail.com">
      <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hwanngjjbb@gmail.com"/>
     </a>
-    <a href="https://technicolour.tistory.com/">
+        <a href="https://technicolour.tistory.com/">
      <img alt="Tech Blog" src ="https://img.shields.io/badge/Tech Blog-2078C6.svg?&style=for-the-badge&logo=applemusic&logoColor=white&link=https://technicolour.tistory.com/"/>
-    </a>
-</div>
+    </a></li>
+    </ul>
 <br/>
 <br/>
 <div align="center">
@@ -69,17 +63,14 @@
 <br/>
 <br/>
 <div align="center">
-    <h2>Algorithm</h2>
+    <h2>Stats</h2>
     <br/>
 </div>
 
-<div align="center">
 
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongbeen)](https://solved.ac/jeongbeen)
-    
-    [![Jeongbbn's github stats](https://github-readme-stats.vercel.app/api?username=jeongbbn)](https://github.com/anuraghazra/github-readme-stats)
-    
-    
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongbbn&count_bg=%238ec5f3&title_bg=%23feabc8&icon=audiomack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    
-</div>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongbeen)](https://solved.ac/jeongbeen)
+
+
+ [![Jeongbbn's github stats](https://github-readme-stats.vercel.app/api?username=jeongbbn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongbbn&count_bg=%238ec5f3&title_bg=%23feabc8&icon=audiomack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
