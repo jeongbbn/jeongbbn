@@ -17,6 +17,9 @@
 <div align="center">
     <h2>Experience</h2>
     <ul align="left">
+        <li>Naver 프론트엔드 개발자 (2022.05.16 ~ Now)</li>
+        <li>Naver 프론트엔드 인턴 (2022.02.28 ~ 2022.04.15)</li>
+        <li>당근마켓 윈터테크 프론트엔드 인턴 (2022.01.03 ~ 2022.02.23)</li>
         <li>Naver boostcamp web·mobile 6th Challenge + Membership (2021.07.19 ~ 2021.12.03)</li>
         <li>The Catholic University of Korea. Computer & Information Science Engineering (2016.03 ~ 2022.02)</li>
     </ul> 
