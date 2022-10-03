@@ -10,7 +10,7 @@
         <li>Fun Fact : I'm interested in EDM. I've learned about DJing and composed songs before.<br/>(But... I don't want to let anyone listen to my songs X_X)</li>
         <li>I'm talented at drawing anything with Microsoft Paint. I usually draw cartoons about my daily life.
             <br/>
-            If you want to have a look at it, please click <a href="https://abundant-allspice-29e.notion.site/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
+            If you want to have a look at it, please click <a href="https://www.notion.so/progrimpanist/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
     </ul>
 <br/>
 <br/>
