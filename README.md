@@ -19,7 +19,7 @@
     <ul align="left">
         <li>Naver 프론트엔드 개발자 (2022.05.16 ~ Now)</li>
         <li>Naver 프론트엔드 인턴 (2022.02.28 ~ 2022.04.15)</li>
-        <li>당근마켓 윈터테크 프론트엔드 인턴 (2022.01.03 ~ 2022.02.23)</li>
+        <li><a href="https://www.notion.so/progrimpanist/a49db45638b94b2cb5f00b4b7362f9c9#1e627ee73b2e427baa849c47cf41e3b7">당근마켓</a>윈터테크 프론트엔드 인턴 (2022.01.03 ~ 2022.02.23)</li>
         <li>Naver boostcamp web·mobile 6th Challenge + Membership (2021.07.19 ~ 2021.12.03)</li>
         <li>The Catholic University of Korea. Computer & Information Science Engineering (2016.03 ~ 2022.02)</li>
     </ul> 
