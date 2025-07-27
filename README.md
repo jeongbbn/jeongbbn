@@ -1,26 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jeongbeen&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&color=0:fe7ca9,100:64b3f4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jeongbbn&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&color=0:57a8e8,100:8ad5ff" />
 
 <div align="center">
     <h2>About Me</h2>
     <ul align="left">
         <li>Hi there👋 I'm <b>Jeongbeen</b>. </li>
-        <li>I'm a <b>frontend engineer</b>.</li>
-        <li>I'm passionate about creating new things, making user experience better, sharing what I studied, and building tech community.</li>
-        <li>If there is no designer, I usually take charge of design.</li>
-        <li>Fun Fact : I'm interested in EDM. I've learned about DJing and composed songs before.<br/>(But... I don't want to let anyone listen to my songs X_X)</li>
-        <li>I'm talented at drawing anything with Microsoft Paint. I usually draw cartoons about my daily life.
+        <li>I work as a <b>frontend engineer</b> at <b>NAVER</b>.</li>
+        <li>I'm passionate about creating new things, improving user experiences, sharing what I learn, and building tech communities.</li>
+        <li>Fun fact: I'm really into Rock and EDM. I've learned how to DJ and composed some tracks before.<br/>(But... I don't want anyone to hear them X_X)</li>
+        <li>I'm also part of a company band where I play piano and sing! </li>
+        <li>When there's no designer, I usually take care of the design myself.</li>
+        <li>I'm surprisingly good at drawing with Microsoft Paint. I usually draw cartoons about my daily life.
             <br/>
-            If you want to have a look at it, please click <a href="https://www.notion.so/progrimpanist/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
+            If you’d like to check them out, please click <a href="https://www.notion.so/progrimpanist/a49db45638b94b2cb5f00b4b7362f9c9">here</a>.</li>
     </ul>
 <br/>
 <br/>
 <div align="center">
     <h2>Experience</h2>
     <ul align="left">
-        <li>Naver 프론트엔드 개발자 (2022.05.16 ~ Now)</li>
-        <li>Naver 프론트엔드 인턴 (2022.02.28 ~ 2022.04.15)</li>
+        <li>NAVER Frontend developer (2022.05.16 ~ Now)</li>
+        <li>NAVER Frontend 개발 인턴 (2022.02.28 ~ 2022.04.15)</li>
         <li><a href="https://www.notion.so/progrimpanist/a49db45638b94b2cb5f00b4b7362f9c9#1e627ee73b2e427baa849c47cf41e3b7">당근마켓</a> 윈터테크 프론트엔드 인턴 (2022.01.03 ~ 2022.02.23)</li>
-        <li>Naver boostcamp web·mobile 6th Challenge + Membership (2021.07.19 ~ 2021.12.03)</li>
+        <li>NAVER Boostcamp web·mobile 6th Challenge + Membership (2021.07.19 ~ 2021.12.03)</li>
         <li>The Catholic University of Korea. Computer & Information Science Engineering (2016.03 ~ 2022.02)</li>
     </ul> 
 </div>
@@ -46,5 +47,3 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongbeen)](https://solved.ac/jeongbeen)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongbbn&count_bg=%238ec5f3&title_bg=%23feabc8&icon=audiomack.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
