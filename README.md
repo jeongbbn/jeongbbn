@@ -3,7 +3,7 @@
 <div align="center">
     <h2>About Me</h2>
     <ul align="left">
-        <li>Hi there👋 I'm <b>Jeongbeen</b>. </li>
+        <li>Hi there👋 I'm <b>Jeongbeen</b>, also known as <b>Jaelyn</b>. </li>
         <li>I work as a <b>frontend engineer</b> at <b>NAVER</b>.</li>
         <li>I'm passionate about creating new things, improving user experiences, sharing what I learn, and building tech communities.</li>
         <li>Fun fact: I'm really into Rock and EDM. I've learned how to DJ and composed some tracks before.<br/>(But... I don't want anyone to hear them X_X)</li>
